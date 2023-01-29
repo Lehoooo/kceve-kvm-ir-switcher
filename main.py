@@ -1,4 +1,5 @@
 # leho.dev | github.com/Lehoooo
+# run as sudo
 import sys
 import os
 
