@@ -10,7 +10,11 @@ eg:
 ```python3 main.py 1```
 
 # PiKVM Support
-Put ```kvm.yaml``` into ```/etc/kvmd/override.d/```
+1. Install LIRC - Guide: https://github.com/crutonjohn/pikvm-ir
+2. Create the file ```/etc/sudoers.d/custom_commands```
+3. Put ```kvmd ALL=(ALL) NOPASSWD: ALL``` in the file
+4. Put ```kvm.yaml``` into ```/etc/kvmd/override.d/```
+5. Move ```switch.py``` into ```/opt/bin/```
 
 Result:
 
