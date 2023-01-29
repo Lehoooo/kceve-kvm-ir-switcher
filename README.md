@@ -1,4 +1,5 @@
 ## A script to change KVM outputs on the Kceve KC-KVM401CR 4 Port via IR
+![Screenshot_20230129_203638](https://user-images.githubusercontent.com/52742690/215317841-b057c25a-8d22-4bf5-aff6-cae84b731742.png)
 
 # Requirements
 * Python modules ```os``` and ```sys```
@@ -19,3 +20,4 @@ eg:
 Result:
 
 ![Screenshot_20230129_202335](https://user-images.githubusercontent.com/52742690/215317142-99dc6937-fa0d-43ed-8a66-0878c1858af5.png)
+
