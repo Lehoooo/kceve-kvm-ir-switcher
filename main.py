@@ -1,5 +1,10 @@
 # leho.dev | github.com/Lehoooo
 # run as sudo
+# usage
+# python3 main.py display
+# eg
+# python3 main.py 1 
+
 import sys
 import os
 
